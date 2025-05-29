@@ -1,6 +1,6 @@
 # NYC Airbnb Data: An Unsupervised Learning Approach
 
-This project explores hidden patterns in New York City Airbnb listings using unsupervised learning techniques. The aim is to uncover distinct groups of listings based on pricing, availability, and review behaviors—without using any predefined labels.
+This project explores hidden patterns in New York City Airbnb listings using unsupervised learning techniques. The aim is to uncover distinct groups of listings based on pricing, availability, and review behaviors without using any predefined labels.
 
 We applied key methods such as Principal Component Analysis (PCA), matrix completion, K-Means clustering, and hierarchical clustering to analyze and interpret real-world data from Inside Airbnb.
 
@@ -27,9 +27,9 @@ Can we uncover hidden groups of Airbnb listings that reveal different pricing st
 
 Identified patterns include:
 
-•⁠  ⁠Budget-friendly listings with high availability  
+•⁠  ⁠Budget friendly listings with high availability  
 •⁠  ⁠Luxury or commercial listings with fewer reviews  
-•⁠  ⁠High-volume host listings with distinct review behavior  
+•⁠  ⁠High volume host listings with distinct review behavior  
 
 ---
 
